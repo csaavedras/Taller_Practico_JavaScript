@@ -1,8 +1,9 @@
 
+# Platzi
 
-#Taller Práctico de JavaScript: Matemáticas y Estadística Básica
+## Taller Práctico de JavaScript: Matemáticas y Estadística Básica
 
-###¡Aprende a resolver problemas de matemáticas y estadística básica usando JavaScript! Analiza fórmulas y transfórmalas en código JavaScript para darles usos prácticos (y relevantes para la vida real). Empieza desde operaciones básicas hasta desarrollar un análisis salarial desde sitios web interactivos junto a tu profesor JuanDC.
+### ¡Aprende a resolver problemas de matemáticas y estadística básica usando JavaScript! Analiza fórmulas y transfórmalas en código JavaScript para darles usos prácticos (y relevantes para la vida real). Empieza desde operaciones básicas hasta desarrollar un análisis salarial desde sitios web interactivos junto a tu profesor JuanDC.
 
 Que aprenderé: 
 
